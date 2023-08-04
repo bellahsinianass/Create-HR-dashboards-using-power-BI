@@ -8,5 +8,5 @@ This dynamic dashboard consolidates various HR-related datasets, employee inform
 #### Remove the NaN values from the dataset...
 ## 2.Data Visualization: UsingPower BI.
 #### Get Correlation between different variables
-#### Create filter by Month, Product and Location 
+#### Create filter by Location, Gender and departement
 #### Map of locations...
